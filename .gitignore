@@ -1,5 +1,5 @@
 ### JetBrains template
-.idea/*
+.idea/
 
 ### Node template
 logs
@@ -7,7 +7,7 @@ logs
 npm-debug.log*
 
 # Compiled directories
-build/*
+web/dist/
 
 # Dependency directories
 node_modules
