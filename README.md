@@ -1,5 +1,5 @@
-# react-boilerplate
-Boilerplate setup for react v15 with webpack
+# react-bootstrap
+React/redux/thunk setup for react v15 with webpack
 
 # Installation
 run `npm install`
